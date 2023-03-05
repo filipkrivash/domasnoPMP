@@ -88,7 +88,186 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="AndroidFP"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="Deitel"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="Google"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="Json"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="iPhoneFP"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="AndroidHTP"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="JavaFP"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="JavaHTP"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
+                    android:gravity="center">
+
+                    <Button
+                        android:layout_width="280dp"
+                        android:layout_height="wrap_content"
+                        android:text="iPhone"/>
+
+                    <Button
+                        android:layout_width="65dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="15dp"
+                        android:paddingLeft="10dp"
+                        android:paddingRight="10dp"
+                        android:text="@string/edit"
+                        android:textSize="12sp" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@android:color/transparent"
                     android:gravity="center">
 
                     <Button
@@ -109,13 +288,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
                     android:gravity="center">
 
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="Android"/>
+                        android:text="Kotlin"/>
 
                     <Button
                         android:layout_width="65dp"
@@ -130,202 +308,12 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
                     android:gravity="center">
 
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
-
-                    <Button
-                        android:layout_width="65dp"
-                        android:layout_height="wrap_content"
-                        android:layout_marginStart="15dp"
-                        android:paddingLeft="10dp"
-                        android:paddingRight="10dp"
-                        android:text="@string/edit"
-                        android:textSize="12sp" />
-                </TableRow>
-                <TableRow
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:background="@android:color/transparent"
-                    android:id="@+id/newTagTableRow"
-                    android:gravity="center">
-
-                    <Button
-                        android:layout_width="280dp"
-                        android:layout_height="wrap_content"
-                        android:text="Android"/>
+                        android:text="Javan"/>
 
                     <Button
                         android:layout_width="65dp"

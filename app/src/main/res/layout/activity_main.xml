@@ -42,6 +42,7 @@
             android:id="@+id/saveButton"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:backgroundTint="#7E7D7D"
             android:text="@string/save" />
     </TableRow>
 
@@ -93,7 +94,8 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
-                        android:text="AndroidFP"/>
+                        android:backgroundTint="#7E7D7D"
+                        android:text="AndroidFP" />
 
                     <Button
                         android:layout_width="65dp"
@@ -102,6 +104,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -113,6 +116,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="Deitel"/>
 
                     <Button
@@ -122,6 +126,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -133,6 +138,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="Google"/>
 
                     <Button
@@ -142,6 +148,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -153,6 +160,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="Json"/>
 
                     <Button
@@ -162,6 +170,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -173,6 +182,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="iPhoneFP"/>
 
                     <Button
@@ -182,6 +192,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -193,6 +204,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="AndroidHTP"/>
 
                     <Button
@@ -202,6 +214,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -213,6 +226,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="JavaFP"/>
 
                     <Button
@@ -222,6 +236,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -233,6 +248,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="JavaHTP"/>
 
                     <Button
@@ -242,6 +258,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -253,6 +270,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="iPhone"/>
 
                     <Button
@@ -262,6 +280,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -273,6 +292,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="Android"/>
 
                     <Button
@@ -282,6 +302,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -293,6 +314,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="Kotlin"/>
 
                     <Button
@@ -302,6 +324,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
                 <TableRow
@@ -313,6 +336,7 @@
                     <Button
                         android:layout_width="280dp"
                         android:layout_height="wrap_content"
+                        android:backgroundTint="#7E7D7D"
                         android:text="Javan"/>
 
                     <Button
@@ -322,6 +346,7 @@
                         android:paddingLeft="10dp"
                         android:paddingRight="10dp"
                         android:text="@string/edit"
+                        android:backgroundTint="#7E7D7D"
                         android:textSize="12sp" />
                 </TableRow>
 
@@ -339,6 +364,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:text="@string/clearTags"
+            android:backgroundTint="#7E7D7D"
             android:layout_span="2"
             />
     </TableRow>
